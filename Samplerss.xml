@@ -6,6 +6,13 @@
     <description>This is a sample RSS feed for testing InfoSec alerts</description>
     <language>en-us</language>
     <pubDate>Mon, 30 Jun 2025 10:00:00 GMT</pubDate>
+	  <item>
+	<title>New testng RSSS </title>
+	<link>https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={492F2505-013F-4A61-9A36-3F9DFCC386C0}&noticeno=20250630-18&dt=06/30/2025&icount=18&totcount=18&flag=0</link>
+	<author>BSEIndia</author>
+	<pubDate>Mon, 30 Jun 2025 08:31:00 GMT</pubDate>
+	<guid>https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={492F2505-013F-4A61-9A36-3F9DFCC386C0}&noticeno=20250630-18&dt=06/30/2025&icount=18&totcount=18&flag=0</guid>
+	</item>
 	<item>
 	<title>Part Redemption of Debentures of AAVAS FINANCIERS LIMITED</title>
 	<link>https://www.bseindia.com/markets/MarketInfo/DispNoticesNCirculars.aspx?Noticeid={492F2505-013F-4A61-9A36-3F9DFCC386C0}&noticeno=20250630-18&dt=06/30/2025&icount=18&totcount=18&flag=0</link>
